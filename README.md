@@ -13,5 +13,5 @@ To demonstrate the high quality of our data format and expert annotations during
 ```text
 Dataset/
 ├── images/                  # Raw lateral cephalograms (.png)
-├── tracings_mask/           # Expert-annotated dense structural tracings (.png)
-└── sample_labels.csv        # Diagnostic classifications for the 6 tasks
+├── tracings/           # Expert-annotated dense structural tracings (.png)
+└── labels.txt        # Diagnostic classifications for the 6 tasks
