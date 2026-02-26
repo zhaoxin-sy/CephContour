@@ -1,0 +1,3 @@
+Datasets\images\001.png Datasets\tracings\001.png 2 0 2 1 0 2 0 2
+Datasets\images\002.png Datasets\tracings\002.png 0 0 0 0 0 0 0 0
+Datasets\images\003.png Datasets\tracings\003.png 0 2 1 1 2 0 2 1
