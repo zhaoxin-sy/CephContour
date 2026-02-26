@@ -11,7 +11,7 @@ Leveraging this dataset, our proposed Contour-Guided Multi-Task Framework achiev
 To demonstrate the high quality of our data format and expert annotations during the review phase, we provide a **sample subset** (3 representative de-identified patients) in the `sample_data/` directory:
 
 ```text
-sample_data/
+Dataset/
 ├── images/                  # De-identified raw lateral cephalograms (.png)
 ├── tracings_mask/           # Expert-annotated dense structural tracings (.png)
 └── sample_labels.csv        # Diagnostic classifications for the 6 tasks
